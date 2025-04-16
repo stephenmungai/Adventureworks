@@ -8,7 +8,7 @@
 ## Visual Insights
 
 1. **Total Sales by Country**  
-    ![Sales by country](<Visualisations\Sales by country.png>)   
+    ![Sales by country](<Visualisations/Sales by country.png>)
     - Highest sales in the United States, followed by Canada and Australia.
 
 2. **Product Category Distribution**  
@@ -16,7 +16,7 @@
     - Bikes lead in sales, followed by Components, Clothing, and Accessories.
 
 3. **Sales Trend Over Time**  
-    ![Sales trend of categories over time](<Visualisations\Sales trend of categories over time.png>)
+    ![Sales trend of categories over time](<Visualisations/Sales trend of categories over time.png>)
     - Steady sales growth from 2011 to 2014, with incomplete data for 2011 and 2014.
 
 ## Recommendations
