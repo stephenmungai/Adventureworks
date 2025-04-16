@@ -12,7 +12,7 @@
     - Highest sales in the United States, followed by Canada and Australia.
 
 2. **Product Category Distribution**  
-    - ![Distribution of Product Categories](<Visualisations\Distribution of sales by categories.png>)  
+    - ![Distribution of Product Categories](<Visualisations/Distribution of sales by categories.png>)  
     - Bikes lead in sales, followed by Components, Clothing, and Accessories.
 
 3. **Sales Trend Over Time**  
